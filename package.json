@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "1.0.0-rc",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -37,7 +37,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "js-product-card",
+  "name": "jsg-product-card",
   "author": "jaimesanchezgalvis",
   "module": "dist/js-product-card.esm.js",
   "size-limit": [{
