@@ -7,6 +7,10 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaimesanchezgalvisRicoh/js-product-card"
+  },
   "engines": {
     "node": ">=10"
   },
@@ -36,8 +40,7 @@
   "name": "js-product-card",
   "author": "jaimesanchezgalvis",
   "module": "dist/js-product-card.esm.js",
-  "size-limit": [
-    {
+  "size-limit": [{
       "path": "dist/js-product-card.cjs.production.min.js",
       "limit": "10 KB"
     },
